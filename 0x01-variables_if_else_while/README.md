@@ -10,3 +10,4 @@ Printig hexadecimal
 Printig hexadecimal
 prints base 16 decimals
 printing numbers
+Prints any two digits combination
