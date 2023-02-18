@@ -8,3 +8,4 @@ Prints char below 10
  Printing lowercase in reverse
 Printig hexadecimal
 Printig hexadecimal
+prints base 16 decimals
