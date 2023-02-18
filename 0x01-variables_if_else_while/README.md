@@ -9,3 +9,4 @@ Prints char below 10
 Printig hexadecimal
 Printig hexadecimal
 prints base 16 decimals
+printing numbers
