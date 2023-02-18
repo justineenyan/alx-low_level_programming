@@ -14,3 +14,4 @@ Prints any two digits combination
 prints all possible combination of two digits
 prints 3 combination
 print all combination
+prints 3 combination
