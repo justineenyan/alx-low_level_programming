@@ -11,3 +11,4 @@ Printig hexadecimal
 prints base 16 decimals
 printing numbers
 Prints any two digits combination
+prints all possible combination of two digits
