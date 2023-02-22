@@ -5,3 +5,4 @@ printing in lowercase
 printing in lowercase letters ten times
 Checking lowercase letters
  Signs of numbers
+ the absplute value of a number
