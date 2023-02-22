@@ -1,19 +1,33 @@
 #include "main.h"
 /**
- *
- *
+ * jack_bauer - Prints every minutes of the
+ * Return : 0 always
  */
 void jack_bauer(void)
 {
-	for (int hour = 0; hour < 24; hour++) {
-        for (int minute = 0; minute < 60; minute++) {
-            _putchar((hour / 10) + '0');
-            _putchar((hour % 10) + '0');
-            _putchar(':');
-            _putchar((minute / 10) + '0');
-            _putchar((minute % 10) + '0');
-            _putchar('\n');
-        }
-    }
-}
+	int a, b, c, d;
 
+	for (a = 0; a <= 2; a++)
+	{
+		for (b = 0; b <= 9; b++)
+		{
+			for (c = 0; c <= 5; c++)
+			{
+				for (d = 0; d <= 9; d++)
+				{
+					_putchar(a + '0');
+					_putchar(b + '0');
+					_putchar(':');
+					_putchar(c + '0');
+					_putchar(d + '0');
+					_putchar('\n');
+					if (a == 2 && b == 4)
+					{
+						break;
+					}
+				}
+			}
+
+		}
+	}
+}
