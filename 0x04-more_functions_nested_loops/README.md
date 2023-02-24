@@ -12,3 +12,4 @@ a function that prints a square, followed by a new line.
 a function that prints a triangle
 a program that finds and prints the largest prime factor of the number
  task 11
+a function that prints an integer.
