@@ -8,3 +8,4 @@ prints half of a string
 prints every other character of a string
  prints n elements of an array of integers
 a function that copies the string pointed to by src
+ a function that convert a string to an integer.
