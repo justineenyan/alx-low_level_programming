@@ -5,3 +5,4 @@ function that prints a string
 prints a sting in reverse
  a function that prints every other character of a string
 prints half of a string
+prints every other character of a string
