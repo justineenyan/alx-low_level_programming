@@ -8,3 +8,4 @@ capitalizes all words of a string
 encodes a string to 1337
 encodes a string using rot13
 A function that prints an integer
+ Task 10
