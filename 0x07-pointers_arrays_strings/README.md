@@ -11,3 +11,17 @@ a function that searches a string for any of a set of bytes.
 prints a chessboard
 the sum of the two diagonals of a square matrix of integers
 a function that sets the value of a pointer to a char
+Task 9
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	101-crackme_password
+
+no changes added to commit (use "git add" and/or "git commit -a")
