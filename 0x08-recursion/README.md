@@ -5,3 +5,4 @@ a function that prints a string in reverse
  create mode 100644 0x08-recursion/1-print_rev_recursion.c
  a function that returns the length of a string
 a function that returns the factorial of a given number
+returns the value of x raised to the power of y
