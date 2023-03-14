@@ -5,18 +5,16 @@
  * @str: string to copy
  * Return: pointer to array or null
  **/
-char *_strdup(char *str);
+char *_strdup(char *str)
 {
 	char *strDup;
 	int i, j;
 
 	if (str == NULL)
 		return (NULL);
-
 	i = 0;
 	while (str[i] != '\0')
 		i++;
-
 	i++;
 	strDup = malloc(sizeof(*str) * i);
 	if (strDup == NULL)
